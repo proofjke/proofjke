@@ -1,4 +1,4 @@
-# Hi there, I'm Pavel👋
+<h1 align="center">Hi there, I'm Pavel👋</h1>
 
 ### 🚀 Product Manager | E-commerce • GameDev • EdTech
 
@@ -38,8 +38,5 @@ I am a results-oriented **Product Manager** with over **5 years of experience** 
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_NICKNAME)
-
----
-*“Structuring chaos, one sprint at a time.”*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/proofjke)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/proofjke)
