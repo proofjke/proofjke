@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Pavel👋</h1>
 
-### 🚀 Product Manager | E-commerce • GameDev • EdTech
+<h2 align="center"> 🚀 Product Manager 🚀
+  
+E-commerce • GameDev • EdTech</h2>
 
 I am a results-oriented **Product Manager** with over **5 years of experience** in building and scaling digital products. My approach combines a deep economic background with a passion for structured processes and data-driven growth.
 
