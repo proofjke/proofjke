@@ -11,22 +11,19 @@ I am a results-oriented **Product Manager** with over **5 years of experience** 
 ### 🛠 Professional Expertise
 
 * **Domains:** E-commerce, GameDev, EdTech.
-* **Core Skills:** Product Strategy, Launching from Scratch (0 to 1), Process Optimization, Roadmap Planning.
-* **Methodologies:** Data-Driven Decision Making, Hypothesis Testing (Lean/Agile), JTBD, RICE/ICE Prioritization.
-* **The "Chaos Solver":** I excel at structuring messy environments and building transparent, efficient development workflows.
+* **Core Skills:** AI-Native, Business & Outcome Ownership, Product Strategy, Launching from Scratch (0 to 1).
+* **Methodologies:** Data-Driven Decision Making, Hypothesis Testing (HADI, Lean/Agile), JTBD, RICE/ICE/MoSCoW Prioritization.
+* **The "Chaos Solver":** I excel at structuring messy environments and building transparent, efficient workflows.
 
 ---
 
 ### 🧰 Tech & Tools Stack
 
-![Product Management](https://img.shields.io/badge/Focus-Product_Strategy-blueviolet?style=for-the-badge)
-![Data Driven](https://img.shields.io/badge/Approach-Data--Driven-success?style=for-the-badge)
-
-**Management & Analytics:**
-- 📊 **Planning:** Jira, Linear, Notion, Miro
-- 📈 **Analytics:** SQL, Amplitude, Google Analytics
-- 🎨 **Design:** Figma (Prototyping)
-- 💻 **Dev Context:** Git, VS Code, API (Postman)
+- 📊 **Planning:** Jira, Trello, Notion, Miro
+- 📈 **Analytics:** SQL, Amplitude, Firebase, Google Analytics
+- 🎨 **Design:** Figma
+- 💻 **Dev Context:** Git, VS Code, API
+- 🤖 **AI Tools:** ChatGPT, Claude, Lovable/Replit for prototyping
 
 ---
 
