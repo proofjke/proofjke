@@ -6,6 +6,8 @@ E-commerce • GameDev • EdTech</h2>
 
 I am a results-oriented **Product Manager** with over **5 years of experience** in building and scaling digital products. My approach combines a deep economic background with a passion for structured processes and data-driven growth.
 
+I leverage n8n for process automation, Lovable and Replit for rapid MVP prototyping, and a suite of LLMs (Claude, Gemini, Perplexity) for data-driven discovery and strategic documentation.
+
 ---
 
 ### 🛠 Professional Expertise
@@ -23,7 +25,7 @@ I am a results-oriented **Product Manager** with over **5 years of experience** 
 - 📈 **Analytics:** SQL, Amplitude, Firebase, Google Analytics
 - 🎨 **Design:** Figma
 - 💻 **Dev Context:** Git, VS Code, API
-- 🤖 **AI Tools:** ChatGPT, Claude, Lovable/Replit for prototyping
+- 🤖 **AI Tools:** n8n, Replit, Lovable, Claude, Preplexity
 
 ---
 
@@ -32,6 +34,7 @@ I am a results-oriented **Product Manager** with over **5 years of experience** 
 - **Economic Background:** I don't just build features; I understand the business context and ROI.
 - **Resource Efficiency:** I believe in testing hypotheses with minimal resources to find the highest impact.
 - **GameDev Spirit:** Experience in gaming allows me to bring high engagement and gamification mechanics to non-gaming products.
+- **AI-Native:** Accelerating product delivery by using AI for end-to-end automation, rapid prototyping, and deep data synthesis to minimize Time-to-Market.
 
 ---
 
