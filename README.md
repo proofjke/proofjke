@@ -31,11 +31,11 @@ I leverage n8n for process automation, Lovable and Replit for rapid MVP prototyp
 
 ### 📈 Beyond the Features
 
-- **Economic Background:** I don't just build features; I understand the business context and ROI.
-- **Resource Efficiency:** I believe in testing hypotheses with minimal resources to find the highest impact.
-- **GameDev Spirit:** Experience in gaming allows me to bring high engagement and gamification mechanics to non-gaming products.
 - **AI-Native:** Accelerating product delivery by using AI for end-to-end automation, rapid prototyping, and deep data synthesis to minimize Time-to-Market.
-
+- **Economic Background:** I don't just build features; I understand the business context and ROI.
+- **GameDev Spirit:** Experience in gaming allows me to bring high engagement and gamification mechanics to non-gaming products.
+- **Resource Efficiency:** I believe in testing hypotheses with minimal resources to find the highest impact.
+  
 ---
 
 ### 📫 Connect with me:
